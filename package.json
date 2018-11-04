@@ -1,6 +1,6 @@
 {
   "name": "react-native-event-bus",
-  "version": "2.1.6",
+  "version": "1.0.0",
   "description": "Checkbox component for react native, it works on iOS and Android.",
   "main": "index.js",
   "scripts": {
